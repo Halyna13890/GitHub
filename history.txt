@@ -1,0 +1,500 @@
+   25  ssh ec2-user@linux.itcareerhub.de
+   26  git
+   27  ssh ec2-user@linux.itcareerhub.de
+   28  cd .ssh
+   29  ls
+   30  cat id_rsa.pub
+   31  git --version
+   32  cd /
+   33  mkdir repo/test
+   34  mkdir repo
+   35  mkdir test
+   36  ls
+   37  cd /home/gala
+   38  mkdir test
+   39  cd test
+   40  ls
+   41  echo "# test" >> README.md
+   42  ls
+   43  git init
+   44  git status
+   45  git add --all
+   46  git status
+   47  git add
+   48  git commit -m "Addet REDME.md"
+   49  git $ git config --global user.email "galinastudio9@gmail.com"
+   50  $ git config --global user.email "galinastudio9@gmail.com"
+   51  $ git config --global user.email "galinastudio9@gmail.com"
+   52  git config --global user.email "galinastudio9@gmail.com"
+   53  git config --global user.name "Herasymenko Halyna"
+   54  git config --global -l
+   55  git commit -m "first masege"
+   56  git status
+   57  git branch -M main
+   58  git status
+   59  git config --global
+   60  vim
+   61  sudo apt install vim
+   62  git remote add origin git@github.com:Halyna13890/test.git
+   63  git push -u origin main
+   64  git status
+   65  git log
+   66  git diff
+   67  git clone git@github.com:Halyna13890/test.git
+   68  vim
+   69  vim -help
+   70  vim
+   71  ls
+   72  ls -la
+   73  git
+   74  branch
+   75  git branch
+   76  git clone
+   77  cd test
+   78  git clone test
+   79  git clone
+   80  ls
+   81  cat test
+   82  cat readme.md
+   83  cat README.md
+   84  git init
+   85  cd test
+   86  git init
+   87  cd .ssh/
+   88  cd /
+   89  cd .ssh/
+   90  ls
+   91  git
+   92  git branch
+   93  cd test
+   94  git init
+   95  git branch
+   96  ls -la
+   97  find . -name *.txt
+   98  find . -name " *.txt"
+   99  cd document
+  100  cd documents
+  101  cd Documents
+  102  find . -name " *.txt"
+  103  cd /documents
+  104  cd Documents
+  105  mkdir git_intro
+  106  ls -la
+  107  cd git_intro
+  108  git init
+  109  ls -al
+  110  ls
+  111  git add-A
+  112  git add heart.png
+  113  git commit -m 'its heart'
+  114  git remote add origin https://github.com/Halyna13890/git_intro.git
+  115  git remote add git_intro  https://github.com/Halyna13890/git_intro.git
+  116  git push -u git_intro master
+  117  git push -u git_intro main
+  118  git push -u git_intro master
+  119  git remote add  https://github.com/Halyna13890/git_intro.git
+  120  $ ssh-keygen -p -f ~/.ssh/id_ed25519
+  121  cd /
+  122  ssh-keygen 
+  123  $ ssh-keygen -p -f ~/.ssh/id_ed25519
+  124   ssh-keygen -p -f ~/.ssh/id_ed25519
+  125  cd .ssh/
+  126  ls -al ~/.ssh
+  127  cd id_rsa.pub
+  128  ssh-agent -s 
+  129  git push -u git_intro master
+  130  cd Documents/git_intro/
+  131  cd Documents
+  132  cd /Documents
+  133  cd Documents
+  134  ~
+  135  cd Documents
+  136  ls
+  137  cd git_intro
+  138  git init
+  139  git add git_intro
+  140  add heart.png
+  141  git add heart.png
+  142  git commit -m 'its heart'
+  143  git remote add git_intro https://github.com/Halyna13890/git_intro.git
+  144  git push -u git_intro main
+  145  git push -u git_intro main
+  146  git push -u origin main
+  147  cd Documents/git_intro/
+  148  git init
+  149  git add.
+  150  git add .
+  151  git commit -m "its heart" -a
+  152  git remote add origin https://github.com/Halyna13890/git_intro.git
+  153  git push origin master
+  154  git push origin master
+  155  git status
+  156  cd Documents/git_intro/
+  157  git status
+  158  ls
+  159  git add -A
+  160  git commit -m "photo"
+  161  git status
+  162  git commit -m "photo"
+  163  git add -A
+  164  git commit -m "photo"
+  165  git push origin master
+  166  ~
+  167  cd ~
+  168  shh ec2-user@linux.itcareerhub.de
+  169  ssh ec2-user@linux.itcareerhub.de
+  170  cd Documents
+  171  ls
+  172  git init git-branch
+  173  cd git-branch
+  174  git branch gitignore
+  175  git branch
+  176  git branch
+  177  git checkout -b main
+  178  git checkout -b gitignor
+  179  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  180  ls
+  181  cat
+  182  cd Documents/git btanch/
+  183  cd Documents
+  184  ls
+  185  cd git-branch/
+  186  git add .gitignore
+  187  git commit -m "Add .gitignore file"
+  188  git remote add origin git@github.com:Halyna13890/git-branch.git
+  189  git push -u origin gitignore
+  190  checkout giticnore
+  191  git checkout gitignore
+  192  git checkout -b gitignore
+  193  git add .gitignore
+  194  git commit -m "Add .gitignore file"
+  195  git init git branch
+  196  cd Documents
+  197  git init git-branch
+  198  cd git-branch
+  199  git checkout -b gitignore
+  200  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  201  git add .gitignore
+  202  git commit -m "Add .gitignore file"
+  203  git remote add origin git@github.com:Halyna13890/git-branch.git
+  204  git push -u origin gitignore
+  205  ls
+  206  cd DOCUMENTS
+  207  cd Documents
+  208  ls
+  209  ls git-branch
+  210  echo fale.txt
+  211  ls
+  212  npm install -g sass
+  213  sudo apt install npm
+  214  sass
+  215  node
+  216  npm install -g sass
+  217  sass
+  218  sudo apt get npm install -g sass
+  219  sudo npm install -g sass
+  220  node -v
+  221  sudo apt-get update
+  222  sudo apt-get install -y nodejs npm
+  223  sudo npm install -g n
+  224  sudo n stable
+  225  node -v
+  226  node -v
+  227  sudo apt-get update
+  228  sudo apt-get install -y nodejs npm
+  229  sudo npm install -g n
+  230  sudo npm install -g n
+  231  sudo apt-get update
+  232  sudo apt-get upgrade
+  233  sudo do-release-upgrade
+  234  sudo apt-get update
+  235  sudo apt-get upgrade
+  236  sudo do-release-upgrade
+  237  sudo apt-get update
+  238  sudo apt-get install update-manager-core
+  239  sudo do-release-upgrade
+  240  sudo apt-get update
+  241  node -v
+  242  sudo apt-get update
+  243  sudo apt-get install update-manager-core
+  244  sudo do-release-upgrade
+  245  sudo nano /etc/update-manager/release-upgrades
+  246  sudo do-release-upgrade
+  247  lsb_release -a
+  248  sudo apt-get update
+  249  sudo apt-get upgrade
+  250  sudo apt-get dist-upgrade
+  251  sudo nano /etc/apt/sources.list
+  252  lsb_release -a
+  253  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+  254  source ~/.bashrc
+  255  nano ~/.bashrc
+  256  source ~/.bashrc
+  257  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+  258  source ~/.bashrc
+  259  nvm install 14
+  260  nvm install node
+  261  nvm use 14
+  262  node -v
+  263  sass
+  264  nvm
+  265  node -v
+  266  sass
+  267  npm init
+  268  npm
+  269  init npm
+  270  sass -v
+  271  sass
+  272  npm
+  273  sass -version
+  274  npm list -g --depth=0
+  275  node -v
+  276  npm -v
+  277  sudo npm install -g sass
+  278  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+  279  source ~/.bashrc
+  280  nvm install 10
+  281  nvm use 10
+  282  sudo npm install -g sass
+  283  sass -v
+  284  sudo apt-get remove nodejs
+  285  sudo apt-get purge nodejs
+  286  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+  287  source ~/.bashrc
+  288  nvm install 12
+  289  nvm use 12
+  290  npm install -g sass
+  291  sass --version
+  292  npm list -g --depth=0
+  293  nvm use 12
+  294  sass --version
+  295  command -v nvm
+  296  which npm
+  297  echo $PATH
+  298  npm -v
+  299  echo $PATH
+  300  nano ~/.bashrc
+  301  sass -v
+  302  nvm use 12
+  303  npm use 12
+  304  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+  305  nvm install 12
+  306  npm install 12
+  307  npm -v
+  308  sass -v
+  309  export NVM_DIR="$HOME/.var/app/com.visualstudio.code/config/nvm"
+  310  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+  311  [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+  312  npm -v
+  313  sass -v
+  314  export NVM_DIR="$HOME/.var/app/com.visualstudio.code/config/nvm"
+  315  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+  316  [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+  317  nvm -v
+  318  sass -v
+  319  sass -v
+  320  npm -v
+  321  npm use 12
+  322  npm help config
+  323  nvm use 12
+  324  sass -v
+  325  nvm -v
+  326  npm -v
+  327  npm init
+  328  nvm -v
+  329  nvm use 12
+  330  npm init -y
+  331  npm -v
+  332  npm use 12
+  333  cron
+  334  crontab -l
+  335  crontab -e
+  336  cron
+  337  cron -e
+  338  nvm -v
+  339  nvm use 12
+  340  npm init -y
+  341  npm install -g npm
+  342  npm -version
+  343  nvm use 12
+  344  npm init -y
+  345  npm run sass
+  346  npm i sass -d
+  347  npm uninstall
+  348  npm uninstall sass
+  349  npm i sass -D
+  350  npm run sass
+  351  npm run sass
+  352  npm run sass
+  353  npm run sass
+  354  npm run sass
+  355  npm run sass
+  356  cd GitHubHalyna
+  357  cd Documents/GitHubHalyna
+  358  git clone https://github.com/Halyna13890/GitHubHalyna.git
+  359  cd GitHubHalyna
+  360  ls
+  361  git status
+  362  git branch feature
+  363  git checkout feature
+  364  git status
+  365  git add
+  366  git commit -m "New brunch fale"
+  367  git commit -a
+  368  git commit -m "New brunch fale"
+  369  git push origin feature
+  370  git push
+  371  git push origin feature
+  372  git comit --amend -m "updated amend"
+  373  git commit --amend -m "updated amend"
+  374  git checkout main
+  375  git megre feature
+  376  git merge feature
+  377  git checkout feature
+  378  git rebase main
+  379  git reset --hard
+  380  git add
+  381  git status
+  382  git diff
+  383  git stash
+  384  git rebase main
+  385  echo history.txt
+  386  touch history.txt
+  387  hystory > history.txt
+  388  history > history.txt
+  389  git branch -d feature
+  390  git checkout main
+  391  git branch -d feature
+  392  git rm https://github.com/Halyna13890/GitHubHalyna.git
+  393  git ls-files | grep README.md
+  394  git log --all --decorate --oneline --graph
+  395  sudo a GIT_DISCOVERY_ACROSS_FILESYSTEM
+  396  git log --all --decorate --oneline --graph
+  397  cd Documents
+  398  ls
+  399  cd GitHubHalyna
+  400  git log --all --decorate --oneline --graph
+  401  git log --all --decorate --oneline --graph
+  402  install GIT_DISCOVERY_ACROSS_FILESYSTEM
+  403  sudo apt get GIT_DISCOVERY_ACROSS_FILESYSTEM
+  404  sudo install GIT_DISCOVERY_ACROSS_FILESYSTEM
+  405  sudo apt get install GIT_DISCOVERY_ACROSS_FILESYSTEM
+  406  git
+  407  git --version
+  408  git init
+  409  git log --all --decorate --oneline --graph
+  410  git clone git@github.com:Halyna13890/career.git
+  411  touch hallo.sh
+  412  git status
+  413  rm -rf .git
+  414  ls
+  415  npm -version
+  416  sass -version
+  417  nvm use 12
+  418  sass -version
+  419  npm use 12
+  420  nvm use 12
+  421  nvm -v
+  422  npm -v
+  423  nvm use 12
+  424  sass
+  425  node --version
+  426  node --version
+  427  npm init -y
+  428  npm run  sass
+  429  nvm --version
+  430  nvm use 12
+  431  npm init -y
+  432  npm run  sass
+  433  npm run  sass
+  434  npm run  sass
+  435  npm run  sass
+  436  npm run  sass
+  437  npm run  sass
+  438  nvm use 12
+  439  npm run  sass
+  440  npm run  sass
+  441  npm run  sass
+  442  npm run  sass
+  443  npm run  sass
+  444  npm run  sass
+  445  npm run  sass
+  446  npm run  sass
+  447  npm run  sass
+  448  npm run  sass
+  449  npm run  sass
+  450  npm run  sass
+  451  npm run  sass
+  452  npm run  sass
+  453  npm run  sass
+  454  npm run  sass
+  455  npm run  sass
+  456  npm run  sass
+  457  npm run  sass
+  458  npm run  sass
+  459  npm run  sass
+  460  npm run  sass
+  461  npm run  sass
+  462  npm run  sass
+  463  npm run  sass
+  464  npm run  sass
+  465  npm run  sass
+  466  npm run  sass
+  467  npm run  sass
+  468  npm run  sass
+  469  npm run  sass
+  470  npm run  sass
+  471  npm run  sass
+  472  npm run  sass
+  473  npm run  sass
+  474  npm run  sass
+  475  sass --version
+  476  npm run  sass
+  477  nvm use 12
+  478  npm run  sass
+  479  npm run  sass
+  480  cd Document
+  481  cd Documents
+  482  git clone git@github.com:tritonJS826/career.git
+  483  git status
+  484  cd Career
+  485  cd career
+  486  ls
+  487  git pull
+  488  git checkout triton/new
+  489  git checkout -b triton/new
+  490  git branch -a
+  491  git checkout -b Halyna/new
+  492  git branch -a
+  493  touch Halyna.md
+  494  vim Halyna.md
+  495  gs
+  496  git add --all
+  497  git staus
+  498  git commit -m "added hello Halyna.md"
+  499  git status
+  500  git push origin Halyna/new
+  501  cd Documents
+  502  git clone git@github.com:Halyna13890/GitHub.git
+  503  cd GitHub
+  504  git checkout -b feature
+  505  gitcheckout main
+  506  git checkout main
+  507  touch example.txt
+  508  echo "this is example file" > example.txt
+  509  git add example.txt
+  510  git commit -m "Add example.txt file"
+  511  git push origin main
+  512  git checkout feature
+  513  git add README.md .gitignor
+  514  README.md .gitignore
+  515  git README.md .gitignore
+  516  git add README.md .gitignore
+  517  git commit -m "Add changes to README.md .gitignore"
+  518  git push origin feature
+  519  git commit --amend -m "Add changes to README.md and .gitignore with amend"
+  520  git push origin feature --force
+  521  git checkout main
+  522  git merge feature
+  523  git push origin main
+  524  history > history.txt
